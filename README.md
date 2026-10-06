@@ -1,4 +1,4 @@
-# GraphQL: From queries to production
+# GraphQL
 
 Course URL: https://pythonidaer.github.io/graphql-lms/
 

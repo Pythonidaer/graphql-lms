@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "graphql-documentation-course-v1",
-  "title": "GraphQL: From queries to production",
+  "title": "GraphQL",
   "description": "Learn the GraphQL language, API design, operations and schema governance. Includes the complete official Learn and FAQ documentation snapshot, guided practice, skill checks and a capstone.",
   "sections": [
     {
