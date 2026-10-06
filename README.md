@@ -40,6 +40,10 @@ For DOM integration checks, install `jsdom` in your development environment and 
 
 For browser checks, install Playwright and its Chromium browser in your development environment, start the server, and run `node tests/browser.test.cjs`. Set `LMS_TEST_URL` to test another URL. It covers 390/768/1440px layouts, outline toggling, source rendering, safe Markdown, completion, saved progress, quiz grading, reports and final gating.
 
+## Copy the course
+
+Use **Copy entire course** beneath the final assessment in the outline to copy a single plain-text article. It includes every section, lesson, slide, code example, source link, quiz choice, correct answer and explanation, followed by the final assessment. Collapsed sections and locked assessments are included. Browser progress and personal notes are excluded. If clipboard permission is blocked, a selected text field is provided for manual copying.
+
 ## Reporting limits
 
 Learner settings, completion and quiz attempts are browser-local. Clearing browser data clears progress. There is no authentication, shared backend, instructor dashboard, exam-secure grading, verified certificate or SCORM/xAPI integration. Correct answers are shipped in the client. Add an authenticated API and server-side grading for multi-user production use.
