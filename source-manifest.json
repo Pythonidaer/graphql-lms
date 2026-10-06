@@ -1,0 +1,216 @@
+{
+  "retrieved": "2026-10-06",
+  "scope": "All Learn content pages and six FAQ categories; specification is linked, not reproduced.",
+  "sources": [
+    {
+      "path": "learn/introduction.mdx",
+      "url": "https://graphql.org/learn/introduction/",
+      "lessonId": "doc-introduction",
+      "sourceSections": 6
+    },
+    {
+      "path": "learn/schema.mdx",
+      "url": "https://graphql.org/learn/schema/",
+      "lessonId": "doc-schema",
+      "sourceSections": 18
+    },
+    {
+      "path": "learn/queries.mdx",
+      "url": "https://graphql.org/learn/queries/",
+      "lessonId": "doc-queries",
+      "sourceSections": 14
+    },
+    {
+      "path": "learn/mutations.mdx",
+      "url": "https://graphql.org/learn/mutations/",
+      "lessonId": "doc-mutations",
+      "sourceSections": 7
+    },
+    {
+      "path": "learn/subscriptions.mdx",
+      "url": "https://graphql.org/learn/subscriptions/",
+      "lessonId": "doc-subscriptions",
+      "sourceSections": 4
+    },
+    {
+      "path": "learn/validation.mdx",
+      "url": "https://graphql.org/learn/validation/",
+      "lessonId": "doc-validation",
+      "sourceSections": 8
+    },
+    {
+      "path": "learn/execution.mdx",
+      "url": "https://graphql.org/learn/execution/",
+      "lessonId": "doc-execution",
+      "sourceSections": 9
+    },
+    {
+      "path": "learn/response.mdx",
+      "url": "https://graphql.org/learn/response/",
+      "lessonId": "doc-response",
+      "sourceSections": 8
+    },
+    {
+      "path": "learn/introspection.mdx",
+      "url": "https://graphql.org/learn/introspection/",
+      "lessonId": "doc-introspection",
+      "sourceSections": 5
+    },
+    {
+      "path": "learn/best-practices.mdx",
+      "url": "https://graphql.org/learn/best-practices/",
+      "lessonId": "doc-best-practices",
+      "sourceSections": 1
+    },
+    {
+      "path": "learn/thinking-in-graphs.mdx",
+      "url": "https://graphql.org/learn/thinking-in-graphs/",
+      "lessonId": "doc-thinking-in-graphs",
+      "sourceSections": 5
+    },
+    {
+      "path": "learn/schema-design.mdx",
+      "url": "https://graphql.org/learn/schema-design/",
+      "lessonId": "doc-schema-design",
+      "sourceSections": 3
+    },
+    {
+      "path": "learn/naming-design.mdx",
+      "url": "https://graphql.org/learn/naming-design/",
+      "lessonId": "doc-naming-design",
+      "sourceSections": 29
+    },
+    {
+      "path": "learn/error-handling.mdx",
+      "url": "https://graphql.org/learn/error-handling/",
+      "lessonId": "doc-error-handling",
+      "sourceSections": 4
+    },
+    {
+      "path": "learn/robust-applications.mdx",
+      "url": "https://graphql.org/learn/robust-applications/",
+      "lessonId": "doc-robust-applications",
+      "sourceSections": 5
+    },
+    {
+      "path": "learn/serving-over-http.mdx",
+      "url": "https://graphql.org/learn/serving-over-http/",
+      "lessonId": "doc-serving-over-http",
+      "sourceSections": 10
+    },
+    {
+      "path": "learn/debug-errors.mdx",
+      "url": "https://graphql.org/learn/debug-errors/",
+      "lessonId": "doc-debug-errors",
+      "sourceSections": 16
+    },
+    {
+      "path": "learn/file-uploads.mdx",
+      "url": "https://graphql.org/learn/file-uploads/",
+      "lessonId": "doc-file-uploads",
+      "sourceSections": 9
+    },
+    {
+      "path": "learn/authorization.mdx",
+      "url": "https://graphql.org/learn/authorization/",
+      "lessonId": "doc-authorization",
+      "sourceSections": 4
+    },
+    {
+      "path": "learn/pagination.mdx",
+      "url": "https://graphql.org/learn/pagination/",
+      "lessonId": "doc-pagination",
+      "sourceSections": 8
+    },
+    {
+      "path": "learn/global-object-identification.mdx",
+      "url": "https://graphql.org/learn/global-object-identification/",
+      "lessonId": "doc-global-object-identification",
+      "sourceSections": 10
+    },
+    {
+      "path": "learn/caching.mdx",
+      "url": "https://graphql.org/learn/caching/",
+      "lessonId": "doc-caching",
+      "sourceSections": 5
+    },
+    {
+      "path": "learn/performance.mdx",
+      "url": "https://graphql.org/learn/performance/",
+      "lessonId": "doc-performance",
+      "sourceSections": 8
+    },
+    {
+      "path": "learn/security.mdx",
+      "url": "https://graphql.org/learn/security/",
+      "lessonId": "doc-security",
+      "sourceSections": 13
+    },
+    {
+      "path": "learn/federation.mdx",
+      "url": "https://graphql.org/learn/federation/",
+      "lessonId": "doc-federation",
+      "sourceSections": 12
+    },
+    {
+      "path": "learn/governance-ownership.mdx",
+      "url": "https://graphql.org/learn/governance-ownership/",
+      "lessonId": "doc-governance-ownership",
+      "sourceSections": 14
+    },
+    {
+      "path": "learn/governance-tooling.mdx",
+      "url": "https://graphql.org/learn/governance-tooling/",
+      "lessonId": "doc-governance-tooling",
+      "sourceSections": 19
+    },
+    {
+      "path": "learn/schema-review.mdx",
+      "url": "https://graphql.org/learn/schema-review/",
+      "lessonId": "doc-schema-review",
+      "sourceSections": 21
+    },
+    {
+      "path": "learn/governance-versioning.mdx",
+      "url": "https://graphql.org/learn/governance-versioning/",
+      "lessonId": "doc-governance-versioning",
+      "sourceSections": 27
+    },
+    {
+      "path": "faq/getting-started.mdx",
+      "url": "https://graphql.org/faq/getting-started/",
+      "lessonId": "faq-getting-started",
+      "sourceSections": 5
+    },
+    {
+      "path": "faq/general.mdx",
+      "url": "https://graphql.org/faq/general/",
+      "lessonId": "faq-general",
+      "sourceSections": 8
+    },
+    {
+      "path": "faq/best-practices.mdx",
+      "url": "https://graphql.org/faq/best-practices/",
+      "lessonId": "faq-best-practices",
+      "sourceSections": 8
+    },
+    {
+      "path": "faq/specification.mdx",
+      "url": "https://graphql.org/faq/specification/",
+      "lessonId": "faq-specification",
+      "sourceSections": 4
+    },
+    {
+      "path": "faq/frontend.mdx",
+      "url": "https://graphql.org/faq/frontend/",
+      "lessonId": "faq-frontend",
+      "sourceSections": 1
+    },
+    {
+      "path": "faq/foundation.mdx",
+      "url": "https://graphql.org/faq/foundation/",
+      "lessonId": "faq-foundation",
+      "sourceSections": 9
+    }
+  ]
+}
